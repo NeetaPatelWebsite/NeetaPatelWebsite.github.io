@@ -439,7 +439,7 @@ ul.icons {
     ul.icons li:last-child {
       padding-right: 0; }
     ul.icons li .icon:before {
-      font-size: 1.25em; }
+      font-size: 1.75em; }
     ul.icons li a {
       color: inherit; }
 
@@ -875,10 +875,10 @@ button,
       bottom: 3.5em;
       /* left: 3.5em; */
       } }
-  @media screen and (max-width: 736px) {
+  /* @media screen and (max-width: 736px) {
     #footer {
       bottom: 2em;
-      left: 2em; } }
+      left: 2em; } } */
   @media screen and (max-width: 360px) {
     #footer {
       bottom: 1.25em;
